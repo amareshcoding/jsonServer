@@ -7,6 +7,14 @@
       "password": "123456"
     }
   ],
+  "tasks": [
+    {
+      "id": 1,
+      "user": "amaresh",
+      "content": "wakeUp",
+      "date": "7 th Jan 2023"
+    }
+  ],
   "posts": [
     {
       "id": 1,
